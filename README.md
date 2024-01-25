@@ -1,0 +1,3 @@
+Este é o meu primeiro projeto em JavaScript, uma linguagem que aprender fazeria muito bem pra minha evolução como desenvolvedor mas nunca iniciei, mas ganhei um curso da Alura e estou muito animado.
+É uma linguagem gostosa de aprender e nem de perto difícil como o Java kkkk. Vai ser uma jornada incrível e no final deste ano de 2024 quero de fato me considerar um desenvolvedor full-stack e
+poder refazer este código da maneira mais perfeita possível. Este é só o começo de tudo, de uma jornada incrível e o início da luta pela realização do meu maior sonho da vida que é ser programador. Obrigado Deus!
